@@ -17,7 +17,9 @@ As this is meant to be a simple ranking which only takes into consideration the 
 
 #### `project.py` file
 
-In this file, there are 6 functions, including the `main()` function. The functions are:
+In this file, there are 6 functions, including the `main()` function. 
+
+The functions are:
 
 - `main()`
 - `check_textin()`
